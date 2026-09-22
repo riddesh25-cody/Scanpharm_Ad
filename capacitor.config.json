@@ -1,0 +1,11 @@
+{
+  "appId": "com.scanpharma.health",
+  "appName": "SCANPHARMA",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "always"
+  }
+}
